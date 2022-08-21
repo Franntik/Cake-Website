@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+html {
+
+    background-color: white;
+}
+
+header {
+    font-family: 'Lobster', cursive;
+    font-size: 10rem;
+    min-height: 50vh;
+    background-color: lightpink;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: snow;
+    text-shadow: #bb10a4 0.2rem 0.2rem;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+main {
+  font-family: 'Roboto', sans-serif;
+padding: 3rem 5rem;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  padding: 0.1rem 0.1rem;
+}
+
+.seventycake {
+  width: 300px;
+  height: 400px;
+}
+.basiccake {
+  width: 300px;
+  height: 400px;
+}
+.gardencake {
+  width: 300px;
+  height: 400px;
+}
+.gardencaketwo {
+  width: 300px;
+  height: 400px;
+}
+.makeupcake {
+  width: 300px;
+  height: 400px;
+}
